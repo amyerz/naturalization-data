@@ -1,0 +1,18 @@
+{
+  "languageCode": "xx",
+  "languageName": "Language Name",
+  "status": "stub",
+  "note": "Copy en.json and translate the 'question' and 'answers' fields. Do not change id, answerCount, seniorExemption, stateSpecific, or officialField values.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "[Translate: What is the form of government of the United States?]",
+      "answers": ["[Translate: Republic]", "[Translate: Constitution-based federal republic]", "[Translate: Representative democracy]"],
+      "answerCount": 1,
+      "seniorExemption": false,
+      "stateSpecific": false,
+      "officialField": null,
+      "category": "[Translate: Principles of American Government]"
+    }
+  ]
+}
