@@ -1,6 +1,6 @@
 # naturalization-data
 
-Open-source data for the U.S. Naturalization Civics Test practice app.
+Open-source data for the U.S. Naturalization Civics Test.
 
 ## Structure
 
