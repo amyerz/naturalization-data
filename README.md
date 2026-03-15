@@ -8,7 +8,8 @@ Open-source data for the U.S. Naturalization Civics Test.
 questions/
   en.json          # English — 128 questions (2025 USCIS version)
   zh-TW.json       # Traditional Chinese
-  es.json          # Spanish (stub — contributions welcome!)
+  es.json          # Spanish
+  zh-CN.json       # Simplified Chinese
   LANGUAGE_TEMPLATE.json  # Template for adding new languages
 
 states.json        # Governors, senators, capitals for all 50 states + DC + territories
@@ -24,8 +25,9 @@ current_officials.json  # President, VP, Speaker of the House, Chief Justice
 
 ## Keeping officials current
 
-`current_officials.json` and `states.json` may become outdated after elections or appointments.
-If you notice an error, please open a PR with the correction and update `lastUpdated`.
+`current_officials.json` and `states.json` may become outdated after elections, appointments, or resignations.
+If you notice an outdated official name, please open a pull request with the correction and update `lastUpdated`.
+Contributions to keep this data accurate are greatly appreciated!
 
 ## License
 

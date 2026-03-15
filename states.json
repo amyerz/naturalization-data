@@ -1,5 +1,5 @@
 {
-  "_disclaimer": "Officials may change due to elections, appointments, or resignations. Verify against official sources. Last updated: 2026-03-11.",
+  "_disclaimer": "Officials may change due to elections, appointments, or resignations. Verify against official sources. If you notice outdated names, please open a pull request with corrections. Last updated: 2026-03-11.",
   "AL": { "name": "Alabama", "governor": "Kay Ivey", "senators": ["Tommy Tuberville", "Katie Britt"], "capital": "Montgomery" },
   "AK": { "name": "Alaska", "governor": "Mike Dunleavy", "senators": ["Lisa Murkowski", "Dan Sullivan"], "capital": "Juneau" },
   "AZ": { "name": "Arizona", "governor": "Katie Hobbs", "senators": ["Mark Kelly", "Ruben Gallego"], "capital": "Phoenix" },
